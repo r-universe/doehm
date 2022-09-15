@@ -1,5 +1,9 @@
 [
   {
+    "package": "cropcircles",
+    "oncran": true
+  },
+  {
     "package": "survivoR",
     "oncran": true
   }
