@@ -1,5 +1,9 @@
 [
   {
+    "package": "alone",
+    "oncran": true
+  },
+  {
     "package": "cropcircles",
     "oncran": true
   },
