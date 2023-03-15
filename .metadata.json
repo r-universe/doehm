@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "survivoR",
+    "package": "cropcircles",
     "oncran": true
   },
   {
-    "package": "cropcircles",
+    "package": "survivoR",
     "oncran": true
   }
 ]

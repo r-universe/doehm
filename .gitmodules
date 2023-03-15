@@ -8,13 +8,13 @@
 	url = https://github.com/doehm/alone
 	shallow = true
 	registered = true
-[submodule "survivoR"]
-	path = survivoR
-	url = https://github.com/doehm/survivor
-	shallow = true
-	registered = true
 [submodule "cropcircles"]
 	path = cropcircles
 	url = https://github.com/doehm/cropcircles
+	shallow = true
+	registered = true
+[submodule "survivoR"]
+	path = survivoR
+	url = https://github.com/doehm/survivor
 	shallow = true
 	registered = true
