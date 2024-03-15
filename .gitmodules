@@ -8,6 +8,9 @@
 [submodule "cropcircles"]
 	path = cropcircles
 	url = https://github.com/doehm/cropcircles
+[submodule "ggbrick"]
+	path = ggbrick
+	url = https://github.com/doehm/ggbrick
 [submodule "survivoR"]
 	path = survivoR
 	url = https://github.com/doehm/survivor
